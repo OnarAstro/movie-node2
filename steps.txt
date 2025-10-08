@@ -1,0 +1,23 @@
+1-  Schemas
+2-  Controllers
+3-  Routes
+4-  server.js
+
+5-  config -> server.js
+
+
+
+movies-api/
+│-- node_modules/
+│-- config/
+│   └── db.js
+│-- controllers/
+│   └── movieController.js
+│-- models/
+│   └── movieSchema.js
+│-- routes/
+│   └── movieRoutes.js
+│-- .env
+│-- server.js
+│-- package.json
+│-- README.md
